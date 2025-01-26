@@ -17,7 +17,7 @@
 ---
 
 ## 🛠 Tech Stack  
-🔹 **Languages:** Python, SQL, PyTorch, TensorFlow, OpenCV  
+🔹 **Languages:** Python, SQL, PyTorch, TensorFlow, OpenCV, C#, Unity Game Development
 🔹 **Databases:** SQL, Redis, Hadoop – because data needs a good home  
 🔹 **Cloud & DevOps:** AWS, Docker, Git, TensorBoard (aka AI's diary)  
 🔹 **Hardware:** Raspberry Pi, Custom AI setups 
